@@ -1,0 +1,1 @@
+# subor.py vo vetve vyvoj 1. commit vo vetve vývoj

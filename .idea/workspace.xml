@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5a784b8-9c21-4e21-8bc8-4a8fe135589d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Pycharm-git.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="b5a784b8-9c21-4e21-8bc8-4a8fe135589d" name="Changes" comment="Prvý commit.">
+      <change afterPath="$PROJECT_DIR$/subor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,27 +22,63 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;lubomirdedera&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/lubomirdedera/pycharm-git/&quot;,
+    &quot;accountId&quot;: &quot;30b12b6c-9140-496d-96fd-a4a670486329&quot;
+  }
+}</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000000158142" />
-      <entry key="MS500" value="1.0076173817223733" />
-      <entry key="S2" value="1.461659432736921" />
-      <entry key="S5" value="2.4038580994139878" />
-      <entry key="S10" value="3.4425048637733338" />
-      <entry key="S30" value="4.863378266345949" />
-      <entry key="S60" value="5.384762428917822" />
-      <entry key="M2" value="5.6795604299946945" />
-      <entry key="M5" value="5.868595760596375" />
-      <entry key="M10" value="5.933746655844912" />
-      <entry key="M15" value="5.9557076152205095" />
-      <entry key="M30" value="5.97779181274222" />
-      <entry key="H1" value="5.9888803604964345" />
-      <entry key="H2" value="5.994436287868746" />
-      <entry key="H4" value="5.997217170099646" />
-      <entry key="D1" value="5.999536059698941" />
-      <entry key="W1" value="5.9999337194994125" />
+      <entry key="MS100" value="1.0000010092969993" />
+      <entry key="MS500" value="1.0798886952945768" />
+      <entry key="S2" value="1.9668898111453772" />
+      <entry key="S5" value="2.8309734410650034" />
+      <entry key="S10" value="3.324925116247474" />
+      <entry key="S30" value="3.750403600026859" />
+      <entry key="S60" value="3.8717969091902735" />
+      <entry key="M2" value="3.9353135727955095" />
+      <entry key="M5" value="4.0870420145538855" />
+      <entry key="M10" value="4.811147460186909" />
+      <entry key="M15" value="5.5887032301504345" />
+      <entry key="M30" value="7.091538169191014" />
+      <entry key="H1" value="8.30773818811458" />
+      <entry key="H2" value="9.08413456525315" />
+      <entry key="H4" value="9.5231627244384" />
+      <entry key="D1" value="9.917766484429748" />
+      <entry key="W1" value="9.988182914201222" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -68,29 +100,29 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9138314502443617" />
-      <entry key="MS500" value="0.9896681676387215" />
-      <entry key="S2" value="1.4537605951893167" />
-      <entry key="S5" value="2.375592543225897" />
-      <entry key="S10" value="3.400355963251258" />
-      <entry key="S30" value="4.833372007496266" />
-      <entry key="S60" value="5.366587516606255" />
-      <entry key="M2" value="5.669556092926319" />
-      <entry key="M5" value="5.86435615670327" />
-      <entry key="M10" value="5.931585635003736" />
-      <entry key="M15" value="5.954257654978171" />
-      <entry key="M30" value="5.977062162470817" />
-      <entry key="H1" value="5.9885143621091546" />
-      <entry key="H2" value="5.994252994645237" />
-      <entry key="H4" value="5.99712544989063" />
-      <entry key="D1" value="5.999520762767967" />
-      <entry key="W1" value="5.999931533972943" />
+      <entry key="MS100" value="0.939523658874971" />
+      <entry key="MS500" value="1.0659363765351193" />
+      <entry key="S2" value="1.959404495341189" />
+      <entry key="S5" value="2.8265166322823094" />
+      <entry key="S10" value="3.322288202902509" />
+      <entry key="S30" value="3.749408504422439" />
+      <entry key="S60" value="3.8712828746003662" />
+      <entry key="M2" value="3.935051750910618" />
+      <entry key="M5" value="4.0868546286131116" />
+      <entry key="M10" value="4.810794298503412" />
+      <entry key="M15" value="5.58827896592069" />
+      <entry key="M30" value="7.0911425859912685" />
+      <entry key="H1" value="8.307465943287934" />
+      <entry key="H2" value="9.083974645763192" />
+      <entry key="H4" value="9.523076032015341" />
+      <entry key="D1" value="9.917751026724112" />
+      <entry key="W1" value="9.988180680230972" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3Lg3nmT99fTB7KfcHuf2v8QbN9N" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -103,7 +135,8 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "vyvoj",
+    "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -116,8 +149,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-PY-262.11879.98" />
-        <option value="bundled-python-sdk-ebb3072d7bdf-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.11879.98" />
+        <option value="bundled-js-predefined-d6986cc7102b-56aff7b04f6f-JavaScript-PY-263.7307.206" />
+        <option value="bundled-python-sdk-34611be1ca5a-e0583fc556d1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-263.7307.206" />
       </set>
     </attachedChunks>
   </component>
@@ -128,8 +161,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1793862054460</updated>
-      <workItem from="1793862055473" duration="1851000" />
+      <workItem from="1793862055473" duration="4453000" />
+      <workItem from="1794398715647" duration="80000" />
+      <workItem from="1794398969448" duration="1473000" />
     </task>
+    <task id="LOCAL-00001" summary="Prvý commit.">
+      <option name="closed" value="true" />
+      <created>1793864112008</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1793864112008</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +189,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Prvý commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="Prvý commit." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
