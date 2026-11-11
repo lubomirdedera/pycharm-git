@@ -15,4 +15,4 @@ if __name__ == '__main__':
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
-# prvý commit vo vetve vývoj
+# druhý commit vo vetve vývoj
